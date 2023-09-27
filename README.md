@@ -10,11 +10,7 @@ Files developed for the Water jornal for MDPI:
 
 * Precipitation and evapotranspiration data are in the spreadsheet of this repository and the codes used in the GEE platform are in the appendices of the article
 * Direct redirection to the codes are below:
-  
-        Monthly average data to evapotranspiration: https://code.earthengine.google.com/798173d7a3dbe9c08d68cd7e30e2b243
-      
-        Monthly average data to precipitation: https://code.earthengine.google.com/ca3aea46900a3c0b1f4dc4b54990581f
-      
-        Time series to evapotranspiration: https://code.earthengine.google.com/79c256da80fab52f259a555b78e55be5
-      
-        Time series to precipitation: https://code.earthengine.google.com/bb001252995bad8616e71ca94df20320
+  *Monthly average data to evapotranspiration: https://code.earthengine.google.com/798173d7a3dbe9c08d68cd7e30e2b243
+  *Monthly average data to precipitation: https://code.earthengine.google.com/ca3aea46900a3c0b1f4dc4b54990581f
+  *Time series to evapotranspiration: https://code.earthengine.google.com/79c256da80fab52f259a555b78e55be5
+  *Time series to precipitation: https://code.earthengine.google.com/bb001252995bad8616e71ca94df20320
